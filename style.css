@@ -6,14 +6,14 @@
 }
 
 body {
-  background-color: #0f2027;
+  background-color: #c29ec8;
   color: #ffffff;
   padding: 40px;
   text-align: left;
 }
 
 header {
-  background-color: #0077cc;
+  background-color: #8dc8c6;
   padding: 20px;
   border-radius: 10px;
   margin-bottom: 40px;
@@ -26,7 +26,7 @@ h1 {
 }
 
 h2 {
-  color: #00ffc3;
+  color: #87efd6;
   font-size: 1.8rem;
   margin: 30px 0 10px;
 }
@@ -38,7 +38,7 @@ p {
 }
 
 a {
-  color: #00ffc3;
+  color: #9cfbfd;
   text-decoration: none;
   font-weight: bold;
 }
