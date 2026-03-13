@@ -39,33 +39,37 @@ gap:25px;
 }
 
 .nav-links a{
-text-decoration:none;
 color:white;
+text-decoration:none;
 }
 
 .hero{
 height:100vh;
 display:flex;
-align-items:center;
 justify-content:center;
+align-items:center;
 text-align:center;
-background:linear-gradient(120deg,#1e293b,#020617);
 padding-top:80px;
+background:linear-gradient(120deg,#1e293b,#020617);
 }
 
 .profile{
 width:150px;
+height:150px;
+object-fit:cover;
 border-radius:50%;
 margin-bottom:20px;
+border:3px solid #6366f1;
 }
 
 .hero h1{
-font-size:48px;
+font-size:42px;
+margin-bottom:10px;
 }
 
 .hero h3{
 color:#94a3b8;
-margin:10px 0 20px;
+margin-bottom:15px;
 }
 
 .hero-buttons{
@@ -108,8 +112,8 @@ margin-top:30px;
 background:#1e293b;
 padding:25px;
 border-radius:10px;
-transition:0.3s;
 text-align:center;
+transition:0.3s;
 }
 
 .card img{
